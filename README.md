@@ -1,2 +1,2 @@
 # hello-git-course
-demo of a new repo creation
+THIS IS README
